@@ -5,7 +5,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/indistorelogo/WA/main/image.png" group-title="INFO",UPDATE 24-4-2025
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/indistorelogo/WA/main/image.png" group-title="INFO",tes
 https://www.googleapis.com/drive/v3/files/19cw1gbQD3kW2TTqzk1spWo8m5x_-x8pv?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -46,7 +46,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="Indonesia Channels",MNC TV
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="LOKAL INDONESIA",MNC TV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 
@@ -218,7 +218,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="LOKAL INDONESIA" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews
-https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mp
+https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png" group-title="LOKAL INDONESIA",iNews HD
@@ -576,10 +576,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/HITS/sa_dash/HITS.mpd
 
 
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-id="flik.id" tvg-logo="https://i.pinimg.com/236x/6a/99/df/6a99dfae68de322e078a456952378465.jpg",FLIK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd 
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="🔴PREMIUM MOVIE",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
@@ -687,13 +683,13 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/beIN-SPORTS.png" group-title="Sports",beIN Sports 4
 https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN04/sa_dash/BEIN04.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/beIN-SPORTS.png" group-title="Sports",beIN Sports 5
@@ -812,7 +808,7 @@ http://opplex.tv:8080/live/mother/mother/353731.ts
 http://opplex.tv:8080/live/mother/mother/353732.ts
 
 
-tvg-id="Billiard TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxmLY8pCgdwu4JQUnphl49hd9xajnVALx6w&usqp=CAU" group-title="Sports",Billiard TV
+#EXTINF:-1 tvg-name="arena sport 8 croatia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxmLY8pCgdwu4JQUnphl49hd9xajnVALx6w&usqp=CAU" group-title="Sports",Billiard TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/6063a9ba-71aa-44f2-bdcf-0eb1cabf7b34/2.m3u8|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/bally-sports4912.jpg", BALLY SPORTS NORTH
 http://blue4k.xyz:8080/live/EmirAl-jumaily/aGI05gaOUZ/394244.ts
@@ -1585,3 +1581,5 @@ https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+
+
