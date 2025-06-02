@@ -276,29 +276,54 @@ https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
 
 
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbo.png" group-title="🔴HBO PREMIUM",- HBO 2 -
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36)
-http://nonton.site:8080/DZqjznfyyn/3Q9O2vucT6/210
+#EXTINF:-1 tvg-id="HBO (HD).sg"tvg-logo="https://iili.io/Jmo9Eg4.png" group-title="🔴HBO PREMIUM",--- HBO ---
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts|user-agent=Player (Linux; Android 12)
 
 
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbohits.png" group-title="🔴HBO PREMIUM",- HBO Hits 2 -
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/591.ts
 
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbofam.png" group-title="🔴HBO PREMIUM",B HBO Family 2
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-logo="https://iili.io/Jmo9css.png" group-title="🔴HBO PREMIUM",--- HBO Family ---
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts|user-agent=Player (Linux; Android 12)
+
+
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-logo="https://iili.io/Jmo911f.png" group-title="🔴HBO PREMIUM",--- HBO Signature ---
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts|user-agent=Player (Linux; Android 12)
 
 
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbosig.png" group-title="🔴HBO PREMIUM",- HBO Signature 2 -
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts
+#EXTINF:-1 group-title="🔴HBO PREMIUM" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png",---- HBO CUBMU ----
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
+#EXTINF:-1 group-title="🔴HBO PREMIUM" tvg-logo="https://i.ibb.co.com/8mgc3qG/hbohits.png",---- HBO HITS CUBMU ----
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cinemax.png" group-title="🔴HBO PREMIUM",- CINEMAX  2 -
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/DZqjznfyyn/3Q9O2vucT6/2156
+#EXTINF:-1 group-title="🔴HBO PREMIUM" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png",---- HBO FAMILY CUBMU ----
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+
+#EXTINF:-1 group-title="🔴HBO PREMIUM" tvg-logo="https://i.ibb.co.com/4TFkw0B/hbosignature.png",---- HBO SIGNATURE CUBMU ----
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+#EXTINF:-1 group-title="🔴HBO PREMIUM" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png",---- CINEMAX CUBMU ----
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
